@@ -2,6 +2,12 @@
 
 A static web server for development. Great for quickly serving static sites.
 
+Install:
+
+```
+$ brew install denisdefreyne/tap/ddwww
+```
+
 Usage:
 
 ```
